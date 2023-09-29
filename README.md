@@ -1,5 +1,3 @@
-Certainly! Here's a README.md template for your Selenium-based LinkedIn job automation project:
-
 # LinkedIn Job Automation
 
 Automate the process of searching for Python developer jobs on LinkedIn, logging in to your account, and saving job listings as well as following companies of interest.
