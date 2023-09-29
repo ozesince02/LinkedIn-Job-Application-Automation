@@ -32,7 +32,7 @@ Before you begin, ensure you have met the following requirements:
 1. Clone this repository to your local machine:
 
    ```
-   git clone https://github.com/your-username/linkedin-job-automation.git
+   git clone https://github.com/ozesince02/Linkedin-Job-Application-Automation.git
    ```
 
 2. Navigate to the project directory:
